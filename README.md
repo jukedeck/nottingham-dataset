@@ -6,22 +6,29 @@ The original ABC files were sourced from the [Nottingham Music Database](http://
 
 #### Chord notation
 We made the chord notation more consistent and easily parsable by:
+
 1. Removing uninterpretable symbols (e.g. `"/@<.5A7"`)
 2. Using one single format for diminished/augmented/over-note notation (`"Cd"` for diminished, `"Ca"` for augmented and `"C/e"` for a C chord over E)
 
 #### Repeats
 We strived to make the repeat notation more machine-readable by:
+
 1. Adding beginning-of-repeat symbols (`|:`) whenever their position might be programmatically ambiguous
 2. Uniforming the first and second time bar notation (some pieces were using only the numbers `1` and `2`, others the symbols `[1` and `[2`; we opted for the second)
 3. Adding double bars `||` at the end of all second time bars, to make it more transparent which notes are part of a repetition structure and which are not.
 
 #### Part notation
 We expanded the usage of the part name notation, and used it to encode for other score notations that are not easily machine-interpretable:
+
 1. We modified slightly the usage of the `P` metadata, allowing us to distinguish easily between a single part name (`P`) and the piece part playing sequence (new piece metadata label `Y`), which in the originals are both under the same tag `P`
 2. Substituted all notations of "Da Capo al Segno" or "Dal Segno" with a corresponding part subdivision and playing repetition.
 
 #### Simplification choices
-The chordal parts of a few pieces contain what can be considered a _walking bass_ sequence of notes intermixed with the chords themselves. We decided to remove these extra notes from the cleaned ABC files for two reasons: (1 the chords are significantly easier to interpret without them; (2 there are only very few pieces that have this feature, making it of no interest for the purpose of learning algorithms.
+The chordal parts of a few pieces contain what can be considered a _walking bass_ sequence of notes intermixed with the chords themselves. 
+We decided to remove these extra notes from the cleaned ABC files for two reasons: 
+
+1. The chords are significantly easier to interpret without them; 
+2. There are only very few pieces that have this feature, making it of no interest for the purpose of learning algorithms.
 
 We also removed the lyrics from the few pieces that contained them for the same reason.
 
