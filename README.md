@@ -2,7 +2,11 @@ The original ABC files were sourced from the [Nottingham Music Database](http://
 
 ## Technical cleaning specifications
 
+Here we list the manual and programmatic modifications we made to the ABC files to be able to convert them to MIDI.
+
 ### ABC files
+
+Running a `diff` command between a file in the original folder and its corresponding cleaned version will highlight all the changes we made to the plain text ABC.
 
 #### Chord notation
 We made the chord notation more consistent and easily parsable by:
@@ -36,8 +40,6 @@ We also removed the lyrics from the few pieces that contained them for the same 
 
 Some pieces contained bars of the wrong duration because of an inconsistent number of notes or note lengths. 
 In most cases we tried to fix these inconsistencies by filling the bar or reducing the duration of the notes in the way that we thought made the most musical sense, but in a couple of cases we opted for simply removing the offending pieces (e.g. the Pachelbel’s Canon renditions).
-
-Running a `diff` command between a file in the original folder and its corresponding cleaned version will highlight all the changes we made to the plain text ABC.
 
 ### MIDI conversion
 
