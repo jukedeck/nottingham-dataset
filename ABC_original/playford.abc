@@ -1,0 +1,231 @@
+
+X: 1
+T:The Alderman's Hat
+% Nottingham Music Database
+S:Playford
+M:4/4
+L:1/4
+K:Gm
+P:A
+D|"Gm"GB2G|"D7"^Fd2D|"Gm"GB2G|"D7"^FA2D|"Gm"GB2G|"D"^Fg -"Cm"gc|\
+"Gm/d"B2 "D7"A2|"Gm"G3:|
+P:B
+d|"Gm"dg2d|"Gm"gb2d|"F"cf2c|"F"fa2c|"Eb"Be2d/2c/2|"Gm"dg -"Cm"gc|\
+"Gm/d"B2 "D7"A2|"Gm"G3:|
+
+
+X: 2
+T:CAL 1
+% Nottingham Music Database
+S:Mark Knopfler
+P:AABABA
+M:9/8
+L:1/8
+K:G
+P:A
+|G2E |"G"D3 -D2E "f#"G2B|"Em"A3 G3 -"d"G2A|"C"A3 G3 E3|"G"D3 -D3 "f#"B2A|\
+"Em"G3 -G2F G2"f#"A|
+"G"B3 -B2A GA"g#"B|"Am"A3 -A2B "b"A2G|"c"E3 "d"F3 "e"G3|"D/f+"A3 A3 G3|\
+"G"B3 -B2"f#"A "g"B2"b"d|
+"C"e3 "G/b"d3 "g"B3|"D"A3 -A3 "d#"G2A|"Em"B3 A3 "d"G3|"C"E3 -E3 D3|\
+"G"D3 -D3 -D3|"G"D6|
+P:B
+A|"D"A3 "e"B3 "f#"c3|"G"d3 -d2c B2"g#"d|"Am"c3 -c3 -c3|"G/b"B3 A3 G3|
+"C"A3 B3 "d"c3|"Em"B3 -B3 A2G|"Am"E3 c3 B2G|"D7"A3 -\
+P:dc
+A3 -A||
+
+
+X: 3
+T:CAL 2
+% Nottingham Music Database
+S:Mark Knopfler
+P:A(acc) A(unacc)
+M:9/8
+K:G
+D2G |"G"B3 -B3 BAG|"G"dB2 -B3 ABd|"G"d3 -d2B "b"dBd|"C"e3 -"Am"e2g edB|\
+"G"d3 -d3 "f#"BAG|
+"Em"dB2 -B3 BAG|"Am/c"A3 -A3 "A7/c+"A2G|"D7"A3 -A3 B2c|"G"d2b -b3 -"D7/a"bfa|\
+"G/b"g3 -g3 -gdg|
+"C"e3 -e2d "b"cBd|"Am"ce3d3"D7"cB|"G"d3 -d3 "f#"BAG|"Em"dB2 -B3 BAG|\
+"Am"A3 -A3 -"D7"A2G|"G"G3 -G3 :|
+
+
+X: 4
+T:Dick's Maggot
+% Nottingham Music Database
+S:Playford
+M:3/2
+K:G
+%%MIDI gchord fzczcz
+"G"g2d4B2-"D7"B2A2|"G"Bcd2"D7"ABc2"G"B4|"G"g2d4B2-"C"B2A2|\
+"Am"Bcd2"D7"G2F2"G"G4:|
+"D"f2a4f4d2|"G"gab2"A7"efg2"D"f4|"F#m"f2a4f2-"Bm"f2d2|"Em"def2"A7"AB^c2"D7"d4|
+"G"Bcd2"G7/f"Bcd2"C/e"e4|"Am"efg2"Am7/g"efg2"D7/f+"f4|"G"g2d4B2-"C"B2c2|\
+"Am"A4-"D7"A4"G"G4:|
+
+
+X: 5
+T:Hole in the Wall
+% Nottingham Music Database
+S:Playford
+P:AAB
+M:3/2
+K:Bb
+%%MIDI gchord fzczcz
+P:A
+B2c2||\
+P:segno
+"Bb"d3edef2"F/a"c2f2|"Gm"B3cBcd2"Dm/f"A2d2|"Eb"G3AGAB2"Bb/d"F2d2|\
+"Eb"B4-"F7"B2A2"Bb"B4:|
+P:B
+"Gm"b3agab2"Cm"a2g2|"D"^f3gfga2"D7"d2a2|"Gm"b3agab2"Cm"a2g2|\
+"Gm/d"g4-"D7"g2^f2"Gm"g4|
+"Eb"G3AGAB2"F"ABc2|"Gm"B3cBcd2"F/a"cde2|"Bb"d3edef2"F/a"F2f2|"Gm"d4-"F7"d2cd\
+P:D.S.
+"Bb"B2||
+
+
+X: 6
+T:The Indian Queen
+% Nottingham Music Database
+S:Playford
+M:4/4
+L:1/4
+K:D
+P:A
+f/2g/2|"D"af df|"A7"e2 A2|"D"FA Af|"Em"e2 -"A7"ef/2g/2|"D"af df|"A7"e2 A2|\
+"D"FA Af|"D"d3:|
+P:B
+c/2d/2|"A"e/2d/2c/2B/2 Ae|"F#m"fc "Bm"dB|"D"f/2g/2a "E7"b^g|
+"A7"a3e/2f/2|"G"g/2f/2e/2d/2 "A"ca|"Em"Bg "A7"Af/2g/2|"G"ed "A7"ec|"D"d3:|
+
+
+X: 7
+T:Mr Beveridge's Maggot
+% Nottingham Music Database
+S:Playford
+M:3/2
+K:Gm
+%%MIDI gchord fzczcz
+P:A
+"Gm"g4"D7"^f2=ef"Gm"g4|"Cm"d2cB"D7"ABc2"Gm"B2G2|"Gm"g4"F7"a2ga"Bb"b4|\
+"Eb"f2ed"F7"cde2"Bb"d2B2:|
+P:B
+"Bb"d2f4f2f4|"F"c2e4e2e4|"Gm"B2d4d2d2cB|"Cm"ABc2"A7"B2AG"D7"^F2D2|
+"D7"d2a4a2a2d2|"Gm"b2a2"D7"g2^f2"Gm"g4|"Bb"def2Bcd2"F"ABc2|\
+"Cm"B2G2"D7"G2^F2"Gm"G4:|
+
+
+X: 8
+T:Nancy's Fancy
+% Nottingham Music Database
+P:AAB
+S:FTB 2/27
+M:4/4
+L:1/4
+K:G
+P:A
+|:D|"G"GB BA/2B/2|"D7"cA Ad|"G"BG GB|"Am"A/2G/2F/2E/2 "D7"DD|"G"GB "Em"BA/2B/2\
+|"Am"cA "D7"Ad|"G"BG "D7"AF|"G"G2 G:|
+P:B
+|:g|fe dc|"G"BA GB|"G"dg dB|"D"B2 Ag|fe dc|BA Bc|
+"G"dg "D7"fd|"G"g2 g2|"Em"BB B/2A/2B|"Am"cc c/2B/2c|"Em"BB B/2A/2B|
+"D7"A/2G/2F/2E/2 DD|"Em"BB B/2A/2B|"Am"cc c/2B/2c|"Em"BG "D7"AF|"G"G2 G:|
+
+
+X: 9
+T:Never Love Thee More
+% Nottingham Music Database
+S:Playford
+M:6/8
+K:G
+P:A
+"G"DED G2A|"G"BcB A2G|"G7"dB2 A2G|"C"E3 -E3|"G"DED G2A|
+"G"BcB A2G|"G"dB2 c2d|"C"e3 -e2e|"G"dB2 A2G|"C"c2d edc|"G"dBc "C"A2G|
+"Am"E3 "D7"G2E|"G"DED G2A|"G"Bcd "C"edc|"Am"dBc "D7"A2G|"G"G3 -G2||
+
+
+X: 10
+T:Nonesuch
+% Nottingham Music Database
+S:Playford
+M:4/4
+L:1/4
+K:Dm
+a|"Dm"af ga|"Dm"fe/2f/2 da|"Dm"af ga|"Dm"f2 fa|"F"af ga|
+"Dm"fe/2f/2 da|"F"af ga|"Dm"f2 de|"C"ec de|"Dm"fe/2f/2 de|
+"Am"ec de|"Dm"f2 de|"C"ec de|"Dm"fe/2f/2 de|"Am"ec de|"Dm"f2 d||
+
+
+X: 11
+T:The Queen's Jig
+% Nottingham Music Database
+S:Playford
+M:6/8
+K:D
+P:A
+A|"D"d2e fdf|"G"g3 "A7"fga|"D"fgf "Em"e2d|"E7"e3 "A7"A2A|"D"d2e fdf|\
+"G"g3 "A7"fga|"D"fgf "A7"e2d|"D"d3 -d2:|
+P:B
+a|"D"aba g2f|"G"g3 "A7"fga|"D"fgf "Em"e2d|"Em"e3 "A7"A2a|"D"aba g2f|\
+"G"g3 "A7"fga|"D"fgf "A7"e2d|"D"d3 -d2:|
+
+
+X: 12
+T:Rufty Tufty
+% Nottingham Music Database
+S:Playford
+M:4/4
+L:1/4
+K:D
+A|"D"d2 "A7"de|"D"f2 ef|"G"gg "A7"fe|"D"d3:|
+K:G
+e/2f/2|"C"gf ed|"G"dc BB/2c/2|"G"dd cB|[1"D7"A2 "G"G:|[2"D7" A2 "G" G2
+|:"G"B3/2c/2 dd|"C"ec "D7"d2|"G"B3/2c/2 dd|"G"ec "D7"dB/2c/2|"G"dd cB|\
+"D7"A2 "G"G2:|
+
+
+X: 13
+T:Sadlers Wells
+% Nottingham Music Database
+S:Playford
+M:6/4
+L:1/4
+K:Dm
+%%MIDI gchord fzzczz
+P:A
+^c|"Dm"dAf "A7"eAg|"Dm"fed "A7"^c2A|"Dm"dAc "Gm"FBA|"Dm"FG2 "Am"A2=B|
+"Am"cAe -"E7"e=Bc|"E7"d=BA ^G2E|"Dm"Afd "Am"eaA|"E7"Ec^G "Am"A2:|
+P:B
+c/2B/2|"F"AcF fcA|"Bb"dBA "Gm"G2A|"C7"BGE egc|"C7"BAB "F"A2"A7"^c|
+"Dm"dAf "A7"eA^f|"A7"ge^c "Dm"def|"Dm"AGF "Gm"BAG|"A7"Af^c "Dm"d2:|
+
+
+X: 14
+T:St Hugh's Jig
+% Nottingham Music Database
+S:Trevor
+M:4/4
+L:1/4
+K:D
+"D"dd "A"ce|"G"BB "A"A3/2A/2|"Em"BB "A7"cA|"D"d2 -"A7"dA|"D"dd/2d/2 "A"ce|
+"G"dc/2B/2 "A"A3/2A/2|"Em"BB "A7"cA|"D"d2 "A7"A2|"D"dA "G"BA/2G/2|\
+"D"F3/2G/2 AG/2F/2|
+"Em"EF "A7"GA|"D"F3/2E/2 D"c#"E|"Bm"F3/2E/2 D"c#"E|"D"F3/2E/2 "f#"DE|\
+"G"F/2G/2A "A7"E3/2D/2|"D"D3||
+
+
+X: 15
+T:Staines Morris
+% Nottingham Music Database
+S:Playford
+%P:AABBCC
+M:4/4
+L:1/4
+K:Dm
+|:"Dm"Ad "A"=B^c|"Gm"dc/2B/2 "Dm"A3/2B/2|"Dm"c/2d/2c/2B/2 "Gm"AG/2F/2|\
+"A7"E/2D/2E/2F/2 "Dm"D2:|
+"F"F/2G/2A/2B/2 AG/2F/2|"C"E/2D/2E/2F/2 "Dm"D2:|"F"FF CC|\
+"Bb"D/2E/2F/2G/2 "F"A3/2B/2|"Dm"c/2d/2c/2B/2 "Gm"AG/2F/2|"A7"E/2D/2E/2F/2 "Dm"D2:|
+

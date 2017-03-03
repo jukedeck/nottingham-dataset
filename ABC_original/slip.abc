@@ -1,0 +1,163 @@
+
+X: 1
+T:Drops of Brandy
+% Nottingham Music Database
+S:Trad
+M:9/8
+K:G
+P:A
+B/2c/2|:"G"d2c BGB BGB|"G"d2c BGB "D7"cBA|"G"d2c BGB BGB|"C"cBc A2B "D7"cBA:|
+"G"\
+P:B
+GBd gdB gdB|"G"GBd gdB "D7"cBA|"G"GBd gdB gdB|"C"cBc A2B "D7"cBA:|
+
+
+X: 2
+T:Dublin Streets
+% Nottingham Music Database
+S:O'Neill
+M:9/8
+K:Em
+P:A
+|:B|"Em"G2A BGE BGE|"D"F2G AFD AFD|"Em"G2A BGE BGE| [1"G"dcB "B7"AGF "Em"E2:| [2"G"dcB "B7"AGF "Em"E3:|
+P:B
+"Em"e2f g2a bge|"D"d2e f2g afd|"Em"e2f g2a bge|"G"dcB "B7"AGF "Em"E2|
+
+
+X: 3
+T:Gingerhog's No.2
+% Nottingham Music Database
+S:Phil Cunningham arr Hamish
+M:4/4
+K:D
+M:9/8
+"D"Add "D"fdd "A"e2f|"D"Add "D"efd "G"GdB|"D"Add "D"fdd "D"e2f|\
+"G"GBd "D"Afd "A"e3:|
+"D"a2f "D"fef "A"def|"D"aff "D"efA "G"B3|"D"a2f "D"fef "D"dBA|\
+"G"GBd "D"Afd "A"e3:|
+
+
+X: 4
+T:The Glass Of Stout
+% Nottingham Music Database
+S:Phil Rowe via Toby Bennett
+M:9/8
+K:A
+P:A
+"A"c2c cde "E7"dcB|"A"c2c cBA "E7"BAG|"A"ABc "D"dcd "E7"Bed|\
+"A"c2A "E7"BAG "A"A3:|
+P:B
+"A"a2e c2e aga|"Bm"b2f d2f "E7"bag|"A"a2e c2e aga| [1"D"fed "A"c2d "E7"efg:|[2"D"fed "A"c2d "E7"ecB||
+
+
+X: 5
+T:Kid on the Mountain
+% Nottingham Music Database
+S:Bothy Boys
+M:9/8
+K:Em
+P:A
+B|:"Em"E2E FEF G2F|"Em"E2E "Am"cBA "Em"BGE|"Em"E2E "D"FEF "G"G2G/2A/2|\
+"C"BAG FAG "D"FED:|
+P:B
+|:"G"BGB "D7"AFA "G"G2(3D/2E/2F/2|"G"GAB dge "D7"dBA|"G"Bcd "D7"cBA "G"G2A|\
+"C"BAG FAG "D"FED:|
+P:C
+|:"Em"g2g eBe e2e/2f/2|"Em"gfg efg "D"afd|"Em"g2g eBe e2(3f/2g/2a/2|\
+"C"bag fag "D"fed:|
+P:D
+|:"Em"eBB e2f g2f|"Em"eBB efg "D"afd|"Em"eBB e2f g2g/2a/2|"C"bag fag "D"fed:|
+P:E
+|:"G"edB "D7"dBA "G"G2(3D/2E/2F/2|"G"GAB dge "D7"dBd|"G"edB "D7"dBA "G"G2A|\
+"C"BAG FAG "D"FED:|
+P:F
+|:"Em"B,EE eBG E3|"Em"B,EE EFG "D"AFD|"Em"B,EE eBG E2(3F/2G/2A/2|\
+"C"BAG FAG "D"FED:|
+
+
+X: 6
+T:The Lamppost
+% Nottingham Music Database
+S:Phil
+M:9/8
+K:G
+"G"g2d B2G "D"FGA|"D7"DFA cBA Bcd|"G"g2d B2G "D"FGA|"G"G2B "D"AGF "G"G3:|
+"G"g2g bag "D"fga|"D m"de=f "C"edc "G"BAG|"G"g2g bag "D"fga|"Bb"d2e =f3 e2d:|
+"G"B2c d2B G2D|"F"=F2A c2A F2^F|"G"G2B d2B G2D|"F"=FGA "G"G2D G3:|
+"G"d^cd g2g "F"=F3|"G"d^cd BAG "F"=F3|"G"d^cd g2g "F"_F3|\
+ [1"C"e3 "Cm"_e3 "D7"d3:| [2F"C"e3"F"=f3"D7"f3||
+
+
+X: 7
+T:The Racehorse
+% Nottingham Music Database
+S:Toby Bennett
+M:9/8
+K:Bb
+"Gm"B2B BAG "D7"A3|"Gm"B2B BAG "D7"ABc|"Gm"B2B BAG "D7"ABc|"Gm"d2d dcB "F"c3|
+"Gm"d2d dcB "Cm"cde|"Gm"d2d dcB "Cm"cde|"Gm"def "Cm"edc "Gm"BAG|\
+"D7"A2A ABc "Gm"d3:|
+|"Gm"d2d B2B G2G|"D"^F2A d2F A2d|^F2A d2A d3|"Gm"d2d B2B G2G|\
+"D7"^FGA FGA"Gm"G3:|
+|"D"^FGA "D7"d2c "Gm"B2A|GAB GAB GAB|"Gm"G2B d2G B2d|
+"D"^FGA "D7"d2c B2A|\
+M:6/8
+"Gm"c2B A2G|B2A G2^F|"D7"A2G A3||
+
+
+X: 8
+T:The Rocky Road To Dublin
+% Nottingham Music Database
+S:Toby Bennett
+M:9/8
+K:Am
+A|"Am"efe "G"dcB "Am"A3|"Am"E2A A2A "G"Bcd|"Am"efe "G"dcB "Am"A2c|\
+"G"B2A G2A Bcd|
+"Am"efe "G"dcB "Am"A3|"Am"E2A A2A "G"Bcd|"Em"e^fg "Bm"fga "Em"g2e|\
+"G"d2B G2A Bcd|
+"Am"e2a a2^f "G"g2b|"Am"e2a a2A "G"Bcd|"Am"e2a a2^f "G"g2e|"G"d2B G2A Bcd|
+"Am"e2a a2^f "G"g2b|"Am"e2a a2A "G"Bcd|"Em"e^fg "Bm"fga "Em"g2e|"G"d2B G2A Bcd\
+||
+
+
+X: 9
+T:Sir Roger de Coverley
+% Nottingham Music Database
+S:Trad
+M:9/8
+K:G
+P:A
+B/2A/2|:"G"G2G "C"G2e "G"dBG|"C"A2A "A7"ABG "D7"FED|"G"G2G "C"G2e "D7"def|\
+"G"g2G "A7"GAG "D7"FED:|
+"G"\
+P:B
+dBd "C"ece "G"dBG|"C"A2A "A7"ABG "D7"FED|"G"dBd "C"ece "G"def|\
+"G"g2G "A7"GAG "D7"FED:|
+
+
+X: 10
+T:Slip Jig
+% Nottingham Music Database
+P:AAB
+S:Anon
+M:9/8
+K:D
+P:A
+A|"D"F2A ABA "G"G3|"Em"G2e "E7"e2d "A7"cBA|"D"F2A ABA "G"G3|\
+"D"A2d "A7"d2A "D"FED:|
+P:B
+"D"faf f2d f2a|"G"b2e "E7"e2d "A7"cBA|"D"faf f2d f2a|"D"A2d "A7"d2A "D"FED|
+"D"faf f2d f2a|"G"b2e "E7"e2d "A7"cBA|"D"faf "A7"efe "D"d3|\
+"D"A2d "A7"d2A "D"FED||
+
+
+X: 11
+T:Staggering Home
+% Nottingham Music Database
+S:Phil Rowe via Toby Bennett
+M:9/8
+K:G
+"Em"e2e g2e "B7"^d2B|"Em"e2e gfe "B7"^def|"Em"e2e g2e "D"fga|\
+"C"g2e "B7"f2^d "Em"e3|
+"Em"b2b g2e g2g|"B7"^d2B ^d2f agf|"Em"g2e " B7"^d2B c2^d|"Em"e2g "B7"fe^d e3|
+

@@ -1,0 +1,240 @@
+
+X: 1
+T:The Boar's Head
+% Nottingham Music Database
+%P:AAB
+S:Vic
+M:4/4
+L:1/4
+K:C
+|:G|"C"c2 cc|"G"Bc "C"G3/2E/2|"F"FF "Dm"AF| [1"G"GA/2B/2 "C"c:| [2"G"GA/2B/2 "C"c2|
+"C"ee "G"dd|"Am"AA "Em"G3/2E/2|"F"FF "Dm"AF|"G"GA/2B/2 "C"c||
+
+
+X: 2
+T:Ding Dong
+% Nottingham Music Database
+S:Trad
+M:4/4
+L:1/4
+K:Bb
+P:A
+"Bb"BB "Eb"c/2B/2A/2G/2|"F"F3F|"Eb"GB "F7"BA|"Bb"B2 B2::
+P:B
+"Bb"f3/2e/2 d/2e/2f/2d/2|"Eb"e3/2d/2 "F7"c/2d/2e/2c/2|\
+"Bb"d3/2c/2 "Gm"B/2c/2d/2B/2|"Cm"c3/2B/2 "F7"A/2B/2c/2A/2|
+"Gm"B3/2A/2 "C7"G/2A/2B/2G/2|"F7"A3/2G/2 FF|"Eb"GB "F7"BA|"Bb"B2 B2:|
+
+
+X: 3
+T:GKW
+% Nottingham Music Database
+%P:AAB
+S:Trad
+M:4/4
+L:1/4
+K:G
+%P:A
+"G"GG G"D"A|"G"G"C"G "D"D2|"C"E"G"D "C"E"D7"F|"G"G2 G2|
+%P:A
+"G"GG G"D"A|"G"G"C"G "D"D2|"C"E"G"D "C"E"D7"F|"G"G2 G2|
+%P:B
+"G"d"D"c "G"B"D"A|"G"B"D"A "Em"G2|"C"E"G"D "C"E"D7"F|"G"G2 G2|"G"DD "C"E"D"F|\
+"Em"GG "D7"A-"c"A|"G/b"d"C"c "G"B"D"A|"Em"G2 "C"c2|"G"G4||
+
+
+X: 4
+T:God rest you, merry gentlemen
+% Nottingham Music Database
+S:Trad
+M:4/4
+L:1/4
+K:Em
+E|"Em"EB BA|"Em"GF ED|"Em"EF GA|"B7"B3E|"Em"EB BA|"Em"GF ED|
+"Em"EF GA|"B7"B3B|"D7"cA Bc|"G"de "B7"BA|"Em"GE "A7"FG|"D7"A2 GA|"G"B2 "C"cB|
+"D"BA "B7"GF|"Em"E2 "A7"(3GFE|"D7"A2 GA|"G"Bc d"Em"e|"A"BA "B7"GF|"Em"E4-|\
+"Em"E3||
+
+
+X: 5
+T:Good Christian Men Rejoice
+% Nottingham Music Database
+S:Trad
+M:6/8
+K:F
+F|"F"F2F A2B|"F"c2d "C7"c2c|"F"F2F A2B|"F"c2d "C7"c3|"F"c2d c2B|
+"F"A2G "Dm"F3|"F"F3 "F/a"F3|"Bb"G2G "C7"A2G|"Bb"F2"c"G "F"A3|"F"c2d c2B|\
+"F"A2G "Dm"F2F|
+"Bb"G2G "C7"A2G|"Bb"F2"c"G "F"A3|"Dm"D2D "A7"E2E|"Dm"F3 "C7"c3|"F"A2A "C7"G2G|\
+"F"F3 -F2:|
+
+
+X: 6
+T:The Holly and the Ivy
+% Nottingham Music Database
+S:Trad Sussex
+M:3/4
+L:1/4
+K:D
+K:F
+=F\
+P:And
+d\
+P:the
+e|\
+P:ri-
+"D"fe\
+P:-sing
+d|\
+P:of
+"A7"Ad\
+P:the
+e|\
+P:sun
+"D"d3-|"D"d\
+P:and
+a
+P:the
+a|\
+P:run-
+"D"af\
+P:-ning
+d|\
+P:of
+"E7"e2\
+P:the
+f|\
+P:deer
+"A7"e3-|"A7"e2\
+P:the
+a|\
+P:play-
+"D"a2\
+P:-ing
+f|
+P:of
+"D7"fe\
+P:the
+f|\
+P:mer-
+"G"g\
+P:-ry
+g\
+P:or-
+g|\
+P:-gan
+"Gm"g2\
+P:sweet
+g|\
+P:sing-
+"D"f\
+P:-ing
+e\
+P:all
+d|\
+P:in
+"A7"ed
+P:the
+c|\
+P:choir
+"D"d3-|"D"d||
+
+
+X: 7
+T:Jubilate Deo (round)
+% Nottingham Music Database
+P:AAB
+S:Taize?
+M:4/4
+L:1/4
+K:C
+"C"c2 "G7"d2|ec cB|cA GF|EF D2|C2 G,G,|C2 z2||
+
+
+X: 8
+T:Nos Galan
+% Nottingham Music Database
+P:AABA
+S:Vic
+M:4/4
+L:1/4
+K:F
+P:A
+|:"F"c3/2B/2 AG|"F"FG AF|"Bb"G/2A/2B/2G/2 "Gm"A3/2G/2|"C7"FE "F"F2:|
+P:B
+|"C7"G3/2A/2 BG|"F"A3/2B/2 "C7"cG|"F"A/2B/2c "Bb"d/2e/2f|"G7"ed 
+P:dc
+"C7"c2||
+
+% continue here %
+
+X: 9
+T:On Christmas Night
+% Nottingham Music Database
+S:Trad
+M:6/8
+K:G
+d|"G"d2B "C"c2d|"G"BAG "D7"A2F|"G"G2G "C"ABc|"D7"B2A "G"G2d|"G"d2B "C"c2d|\
+"G"BAG "D7"A2F|
+"G"G2G "C"ABc|"D7"B2A "G"G3|"Am"A3 A2G|"D7"ABc "G"dcB|"D7"A3 -A3|\
+M:9/8
+"G"d3 "C"e3 "D"d3|\
+M:6/8
+"Am"c2B "D7"AGA|"G"G3 -G2:|
+
+
+X: 10
+T:Wassail 1
+% Nottingham Music Database
+S:Trad
+M:6/8
+L:1/8
+K:Dm
+D|"Dm"D2A A2G|"Dm"F2F F2E|"Dm"D2E F2G|"A7"A3 -A2D|"Dm"D2A A2G|"Dm"F2F F2E|\
+"Dm"D2E F2G|"A7"A3 ||
+M:4/4
+L:1/4
+"C7"AB "F"c"Bb"d|"F"c2 AG|"F"FG "Bb"FD|"C"C2 FG|\
+M:6/8
+L:1/8
+"Dm"A3B2c |"Dm"D3F2F |"Dm"FA2"C"GE2 |"Dm"D3-D2:|
+
+
+X: 11
+T:Wassail 2
+% Nottingham Music Database
+S:Trad
+M:6/8
+K:D
+D|"D"D2A A2B|"D"A2F D2C|"D"D2E F2G|"A7"A3 -A2D|"D"D2A A2B|"D"A2F D2C|\
+"D"D2E F2G|"A7"A3 -A3||
+|:"D"d2d d2d|"C"=c3 "G"B3|"D"A2F D2D|"G"G3 F2G|"D"A3 "A7/e"A3|"D/f+"A3 "G"A2B|\
+"Em"A3 "A7"G2E|"D"D3 D3:|
+
+
+X: 12
+T:Wassail 3
+% Nottingham Music Database
+S:Trad
+M:6/8
+K:G
+G|"G"G2A B2A|"G"G2A B2A|"G"G2d d2d|"D7"d3 -d2:|
+d|"C"e2e "G"d2B|"G"d3 c2B|"Am"A2G A2B|"D7"c3 ||
+M:4/4
+L:1/4
+Bc |"G"d2 "C"ge|"G"d2 "D7"Bc|"G"dd "C"ge|"G"d2 "D7"Bc|"G"d2 "Em"eB|
+"Am"cA "D7"GF|"G"G3/2A/2 BG|"C"c2 "D7"Bc|"G"d2 "Em"eB|"Am"cA "D7"GF|"G"G4-|\
+"G"G3||
+
+
+X: 13
+T:W3KOOA
+% Nottingham Music Database
+S:Trad
+M:6/8
+K:Em
+"Em"B2A G2E|"B7"FGF "Em"E3|"Em"B2A G2E|"B7"FGF "Em"E3|"Em"G2G "D"A2A|
+"G"B2B dcB|"C"ABA "B7"G2F|"Em"E3 "D7"F2A|"G"G2G G2D|"C"G2E "G"G3|
+"G"G2G G2D|"C"G2E "G"G3|"Em"G2G "D"A2B|"C"c2B "D"A2B|"G"G2G G2D|"Em"G2E "G"G3\
+||
+

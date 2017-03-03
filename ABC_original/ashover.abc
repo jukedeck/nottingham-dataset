@@ -1,0 +1,716 @@
+
+X: 1
+T:A and A's Waltz
+% Nottingham Music Database
+S:Mick Peat
+M:3/4
+L:1/4
+K:G
+e|"G"d2B|"D"A3/2B/2c|"G"B2G|"D"A2e|"G"d2B|"D"A3/2B/2c|[M:2/4]"F"B=F|[M:3/4]"G"G2e:|
+"C"g2e|"Bb"=f2d|"F"c2A|=F2e|"C"g2e|"Bb"=f2d|[M:2/4]"F"cA|[M:3/4] [1 "G"G2e:| [2"G"G2z||
+
+
+X: 2
+T:Barry's Favourite
+% Nottingham Music Database
+S:Mick Peat
+M:2/2
+K:D
+A2|:"D"a3/2b/2a3/2g/2 f2(3def|"Em"g3/2a/2g3/2f/2 "A"e2A2|"D"f3/2g/2f3/2e/2 d2f2\
+|"Em"B3/2c/2d3/2e/2 "A"c2A2|
+"D"a3/2b/2a3/2g/2 f2(3def|"Em"g3/2a/2g3/2f/2 "A"e2A2|\
+"D"f3/2g/2f3/2e/2 d3/2e/2f3/2A/2|"G"B3/2d/2"A"d3/2c/2 "D"d2A2:|
+|:"G"B3/2A/2B3/2g/2 "D"d2A2|"Em"e3/2d/2e3/2f/2 "A"e2a2|\
+"G"b3/2a/2(3gab "D"a3/2g/2(3fga|"E"f3/2e/2(3def "A"e2A2|
+"G"B3/2A/2B3/2g/2 "D"d2A2|"Em"e3/2d/2e3/2f/2 "A"e2a2|\
+"G"b3/2a/2g3/2f/2 "A"a3/2g/2f3/2e/2|1"D"d2f2 d2A2:|[2 d2f2d2|
+
+X: 3
+T:Black Boy
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+|:"A"A "E"c/4B/4A/4G/4|"A"A/2c/2 e/2a/2|"E"g/2b/2 e/2d/2|"A"c/2AB/2|\
+"A"c/2e/2 "B"^d/2f/2|"E"e/2ge/2|"B"f/2a/2 g/4f/4e/4^d/4|"E"e E:|
+|:"A"e/2=gf/2|"D"f/4e/4d/4c/4 d|"E"B/2df/2|"A"e/4d/4c/4B/4 c|"F#m"A/2ce/2|\
+"Bm"d/4c/4B/4A/4 "E"G/2B/2|"Bm"E/2d/2 "E"c/4B/4A/4G/4|"A"A2:|
+M:6/8
+K:D
+A/2|:"D"dd/2 cd/2|"A"e/2f/2e/2 e/2f/2g/2|"D"dd/2 "E"cd/2|"A"e/2c/2A/2 AA/2|
+"D"dd/2 cd/2|"A"e/2f/2d/2 e/2f/2g/2|"D"a/2f/2d/2 "A"g/2e/2c/2|[1 "D"dd/2 d A/2:|[2 "D"dd/2 de/2|
+|:"D"ff/2 f/2d/2f/2|"Em"gg/2 g/2e/2g/2|"D"ff/2 f/2d/2f/2|"A"e/2c/2A/2 Ag/2|
+"D"f/2a/2f/2 "Bm"d/2e/2f/2|"Em"g/2b/2g/2 "A"e/2f/2g/2|\
+"D"a/2f/2d/2 "A"g/2e/2c/2|[1 "D"dd/2 d e/2:|[2"D" dd/2 d3/2|
+
+X: 4
+T:Black Tulip Hornpipe
+% Nottingham Music Database
+S:Mick Peat
+M:2/2
+K:G
+d2|:"G"B3/2g/2d3/2B/2 G3/2B/2d3/2B/2|"D"c3/2e/2a3/2g/2 f3/2d/2e3/2f/2|\
+"G"B3/2g/2d3/2B/2 g3/2d/2B3/2d/2|"D"c3/2A/2d3/2A/2 e3/2A/2f3/2A/2|
+"G"g3/2d/2B3/2d/2 g3/2b/2a3/2g/2|"D"f3/2d/2A3/2d/2 f3/2a/2g3/2f/2|\
+"C"e3/2d/2c3/2B/2 "D"c3/2e/2d3/2c/2|"G"B2G2 G2d2:|
+"D"ADBD cDdc|"G"BGcG ^cGdG|"D"ADBD cDd2|"G"edd^c d4|
+"D"ADBD cDdc|"G"BGcG ^cGd2|"C"ecgc "D"fcac|"G"g2b2 g4:|
+
+
+X: 5
+T:Bobbin Mill Reel
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+A/2|:"D"d/2c/2d/2e/2 fA|"G"Be "A"cA|"D"d/2c/2d/2e/2 f/2e/2d/2c/2|"Em"Be "A"aA|
+"D"d/2c/2d/2e/2 f/2e/2d/2c/2|"G"Be "A"cA|"G"B/2c/2d/2B/2 "A"c/2d/2e/2c/2|\
+"D"d2 dA:|
+"G"B/2A/2B/2c/2 "D"dA|"G"B/2A/2B/2c/2 "D"dA|\
+"G"B/2A/2B/2c/2 "D"d/2c/2d/2e/2|"E"f/2e/2d/2f/2 "A"ea|"G"B/2A/2B/2c/2 "D"dA|
+"G"B/2A/2B/2c/2 "D"de/2f/2|"G"g/2f/2e/2g/2 "D"f/2e/2d/2f/2|1\
+"E"e/2d/2c/2d/2 "A"e2:|2"A"e/2d/2c/2e/2 "D"d2||
+
+
+X: 6
+T:Bonnie Kate
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:G
+f|"G"g3/2a/2 "D"gf|"G"gd2e|"C"dc "D"BA|"G"BG2A|"G"B" Em"G2A/2B/2|\
+"Am"c" D"A2B/2c/2|"G"Bd "C"cB| [1"D"Ad ef:|
+ [2"D"A2 A2||"G"BG2A/2B/2|"D"cA "G7"dB|"C"ec2d/2e/2|"D"fzde/2f/2|
+"G"g3/2a/2 "Em"ge|"Bm"df "Em"gB|"Am"ce "D"d/2e/2d/2c/2|"G"BG G2:|
+
+
+X: 7
+T:Busker Brag
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:C
+|:"G7"ff ed|ff/2f/2 ed|"C"c3/2A/2 G3/2A/2|cc AG|
+"G7"ff ed|f/2ff/2 ed|G/2A/2B/2c/2 d/2e/2f/2g/2|"C"ec c2:|
+K:C
+|:"C"C/2E/2G/2C/2 E/2G/2C/2E/2|G/2C/2E/2G/2 C/2E/2G/2E/2|\
+"F"C/2_E/2G/2C/2 E/2G/2C/2E/2|
+G/2C/2_E/2G/2 C/2E/2G/2E/2|"D"D/2^F/2A/2D/2 F/2A/2D/2F/2|\
+A/2D/2F/2A/2 D/2F/2A/2F/2|"G"_B/2=B/2g/2B/2 ^G/2A/2g/2A/2|
+^F/2G/2e _ee|[1^c^A ^f^d|^c^A ^F2:|[2"G"G/2A/2B/2c/2 d/2e/2f/2g/2|"C"ec c2|
+
+
+X: 8
+T:Caymann Reel
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:A
+"A"EA/2B/2 E/2c/2B/2E/2|c/2B/2A c2|"A"EA/2B/2 E/2c/2B/2E/2|c/2B/2A A2|
+"A"EA/2B/2 E/2c/2B/2E/2|"A"c/2B/2A "E"B2|"A"c/2e/2a a=G|"D"F/2A/2B "A"A2:|
+"E"B/2^A/2B/2G/2 E/2G/2B/2c/2|d/2B/2c B2|"D"A/2G/2A/2F/2 D/2F/2A/2B/2|\
+"D"=c/2A/2B "A"A2|
+"E"B/2^A/2B/2G/2 E/2G/2B/2c/2|d/2B/2c B2|"A"c/2e/2a a=G|"D"F/2A/2B "A"A2|
+
+
+X: 9
+T:The Chaco Waltz
+% Nottingham Music Database
+S:Mick Peat
+M:3/4
+L:1/4
+K:Bb
+|"Gm"[G2B2][Ac]|[Bd][Ac][GB]|"D"[A/2c/2][A/2c/2][Ac][Bd]|[c3e3]|[^F2A2][GB]|
+[Ac][GB][FA]|"Gm"[G/2B/2][G/2B/2][GB][Ac]|[B3d3]|"Gm"[G2B2][Ac]|\
+[Bd][G/2B/2][A/2c/2][Bd]|
+"Cm"[c2e2][df]|[e3g3]|"D"[e/2g/2][d/2f/2][df][df]|[cf][ce][cf]|"Gm"[B3g3]|\
+[B3g3]|
+"Cm"[c2e2][df]|[eg][df][ce]|"Gm"[B2d2][ce]|[df][ce][Bd]|"D"[A2c2][Bd]|
+[ce][Bd][Ac]|"Gm"[G2B2][Ac]|"G7"[=B3d3]|\
+K:G
+"C"[c2e2][df]|[eg][df][ce']|
+"G"[B2d2][ce]|"E"[df][ce][Bd]|"Am"[A2c2][Bd]|"D"[c2e2][cf]|"G"[B3g3]|[B3g3]:|
+
+
+X: 10
+T:Chestnut Reel
+% Nottingham Music Database
+S:Mick Peat
+P:Play AABA last time
+M:4/4
+L:1/4
+K:G
+^G/2A/2^A/2|:"G"B/2G/2B/2d/2 g/2d/2B/2G/2|"C"AA A2|"D"A/2F/2A/2c/2 A/2e/2d/2c/2\
+|"G"BG G/2^G/2A/2^A/2|
+"G"B/2G/2B/2d/2 g/2d/2B/2G/2|"C"AA A2|"D"A/2F/2A/2c/2 A/2f/2e/2f/2|\
+[1"G"gG G/2 ^G/2A/2^A/2:|[2"G"gG G/2c/2^c/2d/2||
+K:Cm
+|:"Cm"e/2c/2e/2g/2 "Cm"c'/2g/2e/2c/2|"Fm"d/2e/2f/2e/2 "Fm"d/2c/2=B/2c/2|\
+"G"=B/2G/2B/2d/2 B/2a/2g/2f/2|"Cm"e/2d/2c/2=B/2 c/2G/2c/2d/2|
+K:Cm
+"Cm"e/2c/2e/2g/2 "Cm"c'/2g/2e/2c/2|"Fm"d/2e/2f/2e/2 "D"d/2c/2=B/2c/2|\
+"G"=B/2G/2B/2d/2 B/2a/2g/2f/2|1"Cm"ec c^c/2d/2:|2"Cm"ec c2||
+
+
+X: 11
+T:Cheviners Jig
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:D
+e|:"D"dcd "A"FAB|"D"dcd "G"BAG|"D"FAd "G"GBd|"Em"Ged "A"cBc|
+"D"dcd "A"FAB|"D"dcd "G"B2d|"Em"Bed "A"cag|"D"fdc d2e:|
+|:"D"fdA "G"g3|"C"e=cG "F"=f3|"C"e=cG Gce|"C"=ceg "G"Bdg|
+"D"fdA "G"g3|"A"ecA "D"f3|"Bm"def "Em"ged|"A"cBc "D"d3:|
+
+
+X: 12
+T:Cuillin Reel
+% Nottingham Music Database
+S:Mick Peat
+P:"AAAABB"
+M:4/4
+L:1/4
+K:G
+d|:"G"gd/2g/2 B/2g/2d/2g/2|"Am"e/2d/2c/2d/2 "D"e/2d/2e/2f/2|\
+"G"gd/2g/2 B/2g/2d/2g/2|"D"c/2e/2d/2c/2 "G"B/2G/2G/2d/2:|
+|:"G"B/2d/2G/2d/2 B/2d/2G/2d/2|"D/nF"c/2d/2A/2d/2 c/2d/2A/2d/2|\
+"G"B/2d/2G/2d/2 B/2d/2G/2d/2|"Am"e/2d/2c/2B/2 "D"A/2F/2D/2F/2|
+"G"B/2d/2G/2d/2 B/2d/2G/2d/2|"C"G/2e/2c/2e/2 G/2e/2c/2e/2|\
+"D"d/2e/2F/2g/2 a/2c'/2b/2a/2| [1"G"g2 gd:|[2 "G" g g g||
+
+
+X: 13
+T:The Dance of the Polygon
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+"D"D/2d/4c/4d/2d/2 f/2d/2f|"D"a/2f/2a/4g/4f/4e/4 "A"d/4c/4d/4e/4"D"d/2d/2|\
+"D"D/2d/4c/4d/2d/2 f/2d/2f|
+"A"a/2g/2f/2e/2 "D"dd|"A"g/2g/2"D"f/2f/2 "A"g/2g/2"D"f|\
+"D"D/2d/4c/4d/2d/2 f/2d/2f|"D"a/2f/2"A"a/4g/4f/4e/4 "D"d"A"f|
+"D"a/2f/2"A"a/4g/4f/4e/4 "D" d "D7" D|"G"G3/4A/4B/2B/2 B/2d/2d|\
+"G"B/2d/2"C"e/4d/4c/4B/4 "Am"A/4G/4A/4B/4"D"A/2A/2|
+"G"G3/4A/4B/2B/2 B/2d/2d|"G"d/2B/2"C"e/4d/4c/4B/4 "A7"B"D"A|\
+"Am"A3/4B/4"D"c/2c/2 "G"B/2d/2g/2B/2|
+"Am"A3/4B/4"D"c/2c/2 "G"B/2d/4e/4"D"d/4c/4B/4A/4|"G"G3/4A/4B/2B/2 B/2d/2g/2B/2\
+|"D"d/2A/2d/4c/4B/4A/4 "G (A7)"G2:|
+
+
+X: 14
+T:Duchess of Hamilton's Rant
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:A
+"A"ecA "D"def|"A"ecA "D"d2f|"A"ecA ecA|"Bm"BcB "E"d2f|
+"A"ecA "D"def|"A"ecA "D"d2f|"D"faf "A"edc|"Bm"BcB "E"d2f:|
+"A"ecA acA|"A"ecA "D"d2f|"A"ecA acA|"Bm"BcB "E"d2f|
+"A"ecA acA|"A"ecA "D"d2f|"D"faf "A"edc|"Bm"BcB "E"d2f|
+
+X: 15
+T:Duncan's Waltz
+% Nottingham Music Database
+S:Mick Peat
+M:3/4
+L:1/4
+K:C
+G|:"C"c2c|"G"dcA|"C"G/2c3/2E|"G"D3/2A/2G|"C"EGc|"F"A3/2G/2F|"C"EGe|"G"d2e/2d/2|
+"C"c2c|"G"dcA|"C"G/2c3/2E|"G"D3/2A/2G|"C7"EGc|"F"dfe|"G"dAB|"C"c2c|
+"G"d2g|"C"edc|"G"[dB][ec][fd]|"C"[e3c3]|"F"aef|"C"ged|"D"c/2A3/2e|\
+"G"d2e/2d/2|
+"C"c2c|"G"dcA|"C"G/2c3/2E|"G"D3/2A/2G|"C7"EGc|"F"dfe|"G"dAB|"C"c3:|
+zF2|E2z|c3|c3|zF2|E3||
+
+
+
+X: 16
+T:Espresso Polka
+% Nottingham Music Database
+S:Mick Peat
+P:/f2Ideal for G/D melodeon/fP
+M:2/4
+L:1/4
+K:G
+f/2|:"G"g/2d/2 "C"e/2f/4e/4|"G"d/2B/2 "D"c/2d/4c/4|"G"B/2G/2 "D"A/2F/2|\
+"G"G/4A/4B/2 "D"A|
+"G"g/2d/2 "C"e/2f/4e/4|"G"d/2B/2 "D"c/2d/4c/4|"G"B/2G/2 "D"A/2F/2|"G"G/2B/2 G\
+:|
+K:D
+|:"A"G/2e/4G/4 "D"F/2f/4d/4|"A"G/2e/4c/4 "D"f/2d/2|"A"G/2e/4G/4 "D"f/2d/2|\
+"D"a/2f/2 "C"g|
+"A"G/2e/4G/4 "D"F/2f/4d/4|"A"G/2e/4c/4 "D"f/2d/2|"A"G/2e/4c/4 "D"f/2d/2|\
+"Em"B/2"A"c/2 "D"d:|
+
+
+X: 17
+T:Falling About
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:E
+"E"eE (3G/2F/2E/2B/2G/2|c/2B/2G/2B/2 c/2B/2c/2d/2|c/2B/2G/2B/2 c/2B/2c/2d/2|\
+"D"=d/2B/2A/2F/2 A/2B/2d/2^d/2|
+c/2B/2G/2B/2 c/2B/2c/2d/2|c/2B/2G/2B/2 c/2B/2c/2d/2|\
+e/2A/2(3c/2B/2A/2 f/2B/2(3d/2c/2B/2|e/2E/2(3G/2F/2E/2 e2:|
+K:A
+"A"e2 e/2A/2(3c/2B/2A/2|e/2c/2f/2d/2 =G/2e/2(3f/2e/2d/2|\
+K:A
+"A"e2 e/2A/2(3c/2B/2A/2|"G"d/2=G/2d/2B/2 e/2c/2(3f/2e/2d/2|
+"A"e2 e/2A/2(3c/2B/2A/2|e/2c/2f/2d/2 =G/2e/2(3f/2e/2d/2|\
+"A"e/2A/2(3c/2B/2A/2 "G"d/2=G/2(3B/2A/2G/2|"A"a/2A/2(3c/2B/2A/2 a2:|
+
+
+X: 18
+T:The Five Wells
+% Nottingham Music Database
+S:Mick Peat
+N:Taken from A Train's song
+M:6/8
+P: ABA
+K:F
+P:A
+|:"F"F2A c2A|"Bb"Bcd "F"c2A|"Bb"Bcd "F"c2A|"G"AGF "C"G3|"F"F2A c2A|\
+"Bb"Bcd "F"c2A|"Bb"def "F"c2A|"C"BAG "F" F3:|
+P:B
+"C  drone"G2G c2B|ABG GFE|G2G c2B|ABF G3|G2G c2B|ABG GFE|G2G c2B|ABF "C7"G3|
+
+X: 19
+T:Flapjack
+% Nottingham Music Database
+S:An idea from Lady Walpole's Reel
+M:4/4
+L:1/4
+K:F
+[ac]|:"C"[g3/2B3/2][f/2 B/2 ][eB][dB]|"F"[c3/2A3/2][c/2 A/2 ][gA][cA]|\
+"C"[c3/2B3/2][c/2 B/2 ][gB][cB]|"F"[c3/2A3/2][c/2 A/2 ][fA][ac]|
+"C"[g3/2B3/2][f/2 B/2 ][eB][dB]|"F"[c3/2A3/2][c/2 A/2 ][gA][cA]|\
+"C"[c3/2B3/2][c/2 B/2 ][dB][eB]|  [1"F"[f2 A2 ][fA] [ac]:|\
+ [2"F"[f2 A2 ][fA]c|
+|:"F"A/2d/2c/2A/2 d/2c/2A-|A/2c/2f/2c/2 a/2c/2f/2A/2|\
+"F"A/2d/2c/2A/2 d/2c/2A-|A/2c/2f/2c/2 a/2c/2f/2A/2|
+"F"A/2d/2c/2A/2 d/2c/2A|"C"=B/2c/2e/2c/2 g/2c/2_b/2=B/2|\
+"C"=B/2c/2e/2c/2 g/2c/2_b/2=B/2|"C"[ac][g B ]"F"[f2A2]:|
+
+
+X: 20
+T:Fradley Reel
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:C
+G/2|:"C"c/2d/2e/2c/2 "F"A/2c/2F|"C"c/2d/2e/2c/2 "G"B/2d/2d|\
+"C"e/2d/2c/2e/2 "D"d/2c/2d/2c/2|"G"B/2c/2d/2g/2 "C"e/2c/2c/2B/2:|
+K:G
+|:"D"cA/2c/2 "G"d/2B/2G/2B/2|"D"cA/2c/2 "G"B/2d/2g/2d/2|\
+"D"cA/2c/2 "G"B/2d/2g/2d/2|"D"e/2c/2A/2f/2 "G"g/2d/2B/2G/2:|
+"Am"c/2A/2(3A/2A/2A/2 A/2B/2c/2d/2|"D"e/2d/2e/2f/2 "G"g/2d/2B/2G/2|\
+"Am"c/2A/2(3A/2A/2A/2 A/2B/2c/2d/2|"E7"e/2B/2^G/2B/2 E/2B/2G/2e/2|
+"Am"c/2A/2(3A/2A/2A/2 A/2B/2c/2d/2|"D"e/2d/2e/2f/2 "G"g/2a/2b/2g/2|\
+"D"f/2e/2d/2e/2 f/2g/2a/2b/2|"D"c'/2a/2f/2d/2 "G"g2:|
+
+
+X: 21
+T:The Frantocini
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:F
+"F"fcc ~c3|"Dm"dAA ~A3|"Gm"GBA GAF|"C"EFG C3|"F"fcc c3|"Dm"dAA A2f|"C"edc "G"GA=B|"C"c3 c3:|
+"C"gcc ~c3|"F"acc ~c3|"Bb"dcB "Gm"AGF|"C"EFG C3|"F"fcc c3|"Dm"dAA ~A3|"Gm"GBA "C"GFE|"F"F3 F3:|
+
+
+
+X: 22
+T:Harper's Frolick
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:D
+A/2|:"D"A/2F/2 D/2A/2|"D"F/2A/2 D/2d/2|"A"c/2d/2 e/2c/2|"D"d/4c/4d/4e/4 d/2A/2|\
+"D"F/2A/2 D/2A/2|"D"F/2A/2 D/2d/2|"A"c/2d/2 e/2d/4c/4|\
+[1 "D"d3/2 A/2:|[2 d3/2 g/2|
+"D"f/2de/4f/4|"Em"g/2 "A"eg/2|\
+"D"f/2 "Bm"df/2|"E"e/4d/4c/4B/4 "A"A3/4g/4\
+|"D"f/2de/4f/4|"Em"g/2"A"eg/2|"D"f/2d/2 "A"e/2d/4c/4|"D"d3/2|
+
+
+X: 23
+T:Hopwas Hornpipe
+% Nottingham Music Database
+S:Mick Peat
+M:2/2
+K:G
+B3/2c/2|"G"d2d3/2B/2 G3/2F/2G3/2B/2|d3/2e/2d3/2B/2 G2(3cd^d|\
+"A"e2e3/2^c/2 A3/2^G/2A3/2c/2|e3/2f/2e3/2c/2 A2^c2|
+"D"d3/2e/2d3/2A/2 F3/2D/2F3/2A/2|d3/2e/2f3/2e/2 d3/2c/2B3/2A/2|\
+"G"G3/2B/2d3/2B/2 "D"c3/2A/2F3/2A/2|"G"G2G2 G2:|
+(3BAG|"B7"F3/2B/2^A3/2B/2 ^d3/2B/2A3/2B/2|f3/2B/2A3/2B/2 F3/2B/2A3/2B/2|
+"E7"E3/2B/2^A3/2B/2 d3/2B/2A3/2B/2|e3/2B/2A3/2B/2 E3/2B/2A3/2B/2|\
+"A7"E3/2A/2^G3/2A/2 ^c3/2A/2G3/2A/2|
+e3/2A/2G3/2A/2 E3/2B/2A3/2B/2|"D"c3/2A/2^G3/2c/2 "Am"A3/2G/2c3/2A/2|\
+ [1"D"F3/2D/2E3/2F/2 "G"G2(3BAG:|[2"G"G2z2|
+
+
+X: 24
+T:London
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+"A"e3/4a/4 e/2d/2|"D"B3/4A/4 "A" B/2c/2|"Bm"d3/4c/4 "A" d/2e/2|\
+"D"f/2g/2 a/2f/2|"A"e/2f/2 e/2c/2|"D"f/2g/2 a/2f/2|"A"e/2c/2 "E"B/2c/2|"A"A/2A/4A/4 A:|
+"A"c/2e/2 A/2e/2|"E"B/2e/2 ^d/2e/2|"A"c/2e/2 A/2e/2|"E"B/2E/2 E|\
+"A"c/2e/2 A/2e/2|"B"B/2^d/2 f/2a/2|"A"g/2f/2 "B7"e/2^d/2|"E"e/2e/4e/4 e:|
+"A"a/2a/2 a/2g/2|"D"f/2f/2 f/2e/2|"A"c/2e/2 A/2c/2|"E"B/2E/2 E|\
+"A"a/2a/2 a/2g/2|"F#m"f/2f/2 f/2c/2|
+"Bm"B/2A/2 "E"B/2c/2|"A"A/2A/4A/4 A|"A"C/2E/2 A/2c/2|"D"F/2A/2 d/2f/2|\
+"A"e/2c/2 e/2c/2|
+"E"B/2E/2 E|"A"C/2E/2 A/2c/2|"D"F/2A/2 d/2f/2|"A"e/2c/2 "E"B/2c/2|\
+"A"A/2A/4A/4 A|
+
+
+X: 25
+T:MacDonald's Jig
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:A
+"A"e2e "E"dcB|"A"cAG "D"Adf|"A"e2e "D"dfd|"A"ecA "G"=GBd|
+"A"e2e "E"dcB|"A"cAG "D"Adf|"A"eac "Bm"Bcd|"E"efg "A"a3:|
+"E"BcB Bed|"A"cBA "E"BGE|"D"FGA "A"agf|"Bm"ecA "E"B3|
+"A"c2e "D"agf|"A"cAG "D"Adf|"A"eac "Bm"Bcd|"E"efg "A"a3|
+
+
+X: 26
+T:Major O'Flacherty
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:C
+G/2F/2|:"C"EGc c3|"G"dBG "Dm"F2E|"G"DFA "Dm"dfe|"D"dec "G"BAB|
+"C"EGc c3|"G"dBG "Dm"F2E|"G"DFA "Dm"dfd|[1"G"BAB "C"c3:|[2 "G" BAB "C" c2e/2f/2|
+"C"gec cBc|"G"dBG "Dm"F2E|"G"DFA "Dm"dfe|"D"dec "G"B2e/2f/2|
+"C"gec c3|"G"dBG "Dm"F2E|"G"DFA "Dm"dfd|"G"BAB "C"c3|
+
+
+X: 27
+T:Old Man of Mow
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:G
+G2A |"G"B2B BAB|"C"c2c cdc|"G"B2B "Em"BAG|"Am"A3 "D"AGA|
+"G"BcB BAB|"C"cdc cBc|"G"BAB "D"AGA|1"G"G3 :|2G3 G2d||
+"G"dBd dBg|"C"ece ecg|"G"dBd dBg|"D"cAc cAg|
+"G"dBd dBg|"C"ece ecg|"G"dBd "D"cBA|1"G"G3 G2d:|2"G"G3 G2:|
+
+
+X: 28
+T:One More Dance \& Then
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:G
+B/2c/2 |:"G"d3/4e/4 d/2B/2|"G"g B/2c/2|"G"d3/4e/4 "Em"d/2B/2|"Am"c/2 AB/4c/4\
+|"G"d3/4e/4 "D"d/2B/2|"Em"g/2f/2 "Bm"e/2d/2|"C"e/2d/2 "D"c/2B/2|[1 "G"B3/2 B/4c/4:|[2 "G"B3/2 A/4B/4|
+"D"c/2A/2 f/2A/2|"D"a/2c/2 B/2A/2|"G"B/2G/2 d/2B/2|"G"g/2B/2 A/2G/2|\
+"A"a/2g/2 f/2e/2|"D"d/2c/2 B/2A/2|"G"G/2c/2 "D"B/2A/2|"G"G3/2:|
+
+
+X: 29
+T:Paddy in Flow
+% Nottingham Music Database
+S:Mick Peat
+P:/f2AABA last time through/fP
+M:6/8
+K:D
+A|:"D"DED FAB|=cBA -AdA|"D"DED FAB|"C"=cAG -G2A|"D"DED FAB|
+=cBA Ade|fgf ed=c|1"A"Adc "D"dAF:|2"A"Adc "D"def|
+K:A
+|:"A"=gfe -efe|eag aec|Ace =gfe-|"E"eag bge|
+"A"=gfe -efe|eag aec|Ace =gfe|[1"E"eag "A"aef:|[2"E"eag "A"a3|
+
+
+X: 30
+T:The Polygon
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:D
+f/2g/2|"D"afd "A"ecA|"G"dBG "A"F2E|"D"DFA "G"Bgf|"Em"efd "A"c2f/2g/2|
+"D"afd "A"ecA|"G"dBG "A"F2E|"D"DFA "G"Bgf|"A"edc "D"d2:|
+"A"Ace gec|"D"Adf afd|"A"Ace gec|"E7"Bed "A"c3|
+"A"Ace gec|"D"Adf afd|"A"AcA "G"Bgf|"A"edc "D"d2|
+
+
+X: 31
+T:Racoon Reel
+% Nottingham Music Database
+S:Mick Peat
+P:/f2Play AABA last time/fP
+M:2/4
+L:1/4
+K:A
+"A"C/2C/4D/4 E/2E/4F/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/2E/4F/4|\
+E/2C/2 "E"B,/2^B,/2|
+"A"C/2C/4D/4 E/2E/4F/4|E/2E/4F/4 E/4D/4C/4D/4|E/2E/4F/4 E/2D/2|\
+"E"C/2B,/2 "A"A,:|
+"A7"=G/2G/4A/4 c/2c/4e/4|c/2c/4e/4 c/4A/4=G/4A/4|c/2c/4e/4 c/2c/4e/4|\
+"A7"c/2=G/2 "C7"=c|
+"A7"=G/2G/4A/4 c/2c/4e/4|c/2c/4e/4 c/4A/4=G/4A/4|c/2c/4e/4 c/2A/2|\
+"A7"=G/2F/2 "D"D:|
+
+
+X: 32
+T:Roman Reel
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+"A"e3/4A/4 a3/4e/4|"D"f3/4e/4 d3/4c/4|"E"B3/4c/4 d3/4e/4|"A"c3/4B/4 A3/4e/4|\
+"A"e3/4A/4 a3/4e/4|"D"f3/4e/4 d3/4c/4|"E"B3/4d/4 c3/4B/4|"A"A3/2e/2:|
+e/2|"E"B3/4d/4 "A"c3/4e/4|"Bm"d3/4c/4 "E"B3/4c/4|"A"c3/4e/4 "D"d3/4f/4|\
+"A"e3/4d/4 "E"c3/4e/4|"A"e3/4c/4 a3/4e/4|"D"f3/4e/4 d3/4c/4|"E"B3/4d/4 c3/4B/4|"A"A3/2:|
+
+
+X: 33
+T:Russian Dance
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:C
+(3a/4g/4f/4|:"C"e/2c/2 "G"B/2d/2|"C"c3/2"F"F/2|"C"E/2G/2 "D"A/2c/2|"G"B/2dg/4f/4|\
+"C"e/2c/2 "G"B/2d/2|"C"e/2c/2 "G"B/2d/2|"C"E/2G/2 "G"e/2B/2|[1"C"c3/2 (3a/4/g/4f/4:|[2 "C" c3/2 B/4c/4
+|:"G"d/2B/2 G/2f/2|\
+"C"e/2"F"g(3a/4g/4f/4|"C"e/2c/2 "D"B/2d/2|"G"g/2GF/2|"C"E/2G/2 A/2E/2|\
+"F"z/2ag/4f/4|"C"e/2c/2 "G"G/2B/2|"C"c2:|
+
+
+X: 34
+T:Sallylun Jig
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+L:1/8
+K:D
+"D"d3 DFA|"Em"e3 EGB|ede gfe|"Em"dcB "A"ABc|
+"D"d3 DCD|"Em"e3 E^DE|ede ged|"A"Ace "D"d3:|
+"A"cde "Bm"def|"A"efg "D"afd|"G"bag "D"adf|"Em"agf "A"e3|
+"D"d3 DCD|"Em"e3 E^DE|ede ged|"A"Ace "D"d3|
+
+
+X: 35
+T:The Scotch Ramble
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:A
+"A"A/4A/4A/2A/2c/2 e/2c/2A/2c/2|"E"B/4B/4B/2G/2B/2 dc/2B/2|\
+"A"A/4A/4A/2A/2c/2 e/2c/2"E"d/2B/2|"A"c3/4e/4"E"B/2c/2 "A"A/4A/4A/2A:|
+"A"c/2e/2e/2f/4g/4 ae/2c/2|a/2e/2c/2A/2 "E"B/4B/4B/2B/2d/2|\
+"A"c/2A/2e/2A/2 a/2e/2c/2A/2|c3/4e/4"E"B/2c/2 "A"A/4A/4A/2A:|
+
+
+X: 36
+T:Scottish Caddie
+% Nottingham Music Database
+S:Mick Peat
+P:/f2AABA last time through/fP
+M:6/8
+K:C
+B|"Am"ABc cBA|aAA ABc|"Am"ABc "D"cBA|"G"gGG GAB|
+"Am"ABc cBA|aAA ABc|"Am"ABc "G"cBA|1"Am"A3 "E"B3:|2"Am"A3 "G"B3:|
+"C"cde edc|c'cc cde|"C"cde edc|"Bb"_bfd dfb|
+"C"cde edc|c'cc cde|"C"cde "Bb"edc|1"C"c3 c3:|2"C"c3 "E"B3:|
+
+
+X: 37
+T:The Sluggard Tapper
+% Nottingham Music Database
+S:Mick Peat
+N:"From A.Train's song"
+M:3/4
+L:1/4
+P:ABA
+K:D
+P:A
+"D"a2f|d3/2e/2f|"G"B3/2c/2d|"A"A2g|"D"f3/2e/2d|a2A|"E"B3/2c/2d|
+"A"e3|"D"a2f|d3/2e/2f|"G"B3/2c/2d|"A"A2g|"D"f3/2e/2d|a2A|"A"B2c|"D"
+d3:|\
+P:B
+K:A
+"A"e2a|"E"g3/2a/2b|"A"a2e|"D"f3|"A"e2c|"E"d2B|"B"c3/2B/2A|
+"E"B3|\
+"A"e2a|"E"g3/2a/2b|"A"a2e|"D"f3|"A"ece|"B"a2f|"E"e3/2f/2g|"A7"
+a3||
+
+
+X: 38
+T:Spanish Dance
+% Nottingham Music Database
+S:Mick Peat
+M:2/4
+L:1/4
+K:D
+"D"D/4A/4F/4A/4 "G"D/4B/4G/4B/4|"D"D/2e/4f/4 "A"g/4f/4f/4e/4|\
+"D"D/4A/4F/4A/4 "Em"D/4e/4f/4g/4|"A"f/4e/4d/4c/4 "D"d|
+"A"e/4c/4A/4g/4 "D"f/4d/4A/4a/4|"A"e/4c/4A/4g/4 "D"f/2"A"e/4A/4|\
+"D"a/4f/4d/4A/4 "G"B/4c/4d/4G/4|"D"F/2"A"E/2 "D"D:|
+"A"A/4B/4c/4d/4 "D"d/4c/4B/4A/4|"Em"e/4f/4g/4f/4 "D"f/2"A"e/2|\
+"Bm"f3/4f/4 "E"e/4^G/4A/4B/4|"A"c/4B/4"E"A/4^G/4 "A"A:|
+"A"e3/4c/4 "D"A/2d/2|"G"B/4A/4G/4F/4 "A"E|"G"B/4e/4g/4f/4 "A"e/4c/4"G"d/4g/4|\
+"A"f/4e/4d/4c/4 "D"d:|
+
+
+X: 39
+T:Stepping Stone
+% Nottingham Music Database
+S:Mick Peat
+M:3/4
+L:1/4
+K:G
+"G"e2d|B3/2A/2G|"Am"A2B|E3|"C"A2B|"D"E2F|"G"GBe|"D"d3|"G"e2d|B3/2A/2G|"Am"A2B|
+E3|"C"A2B|"D"E2F|"G"G3-|G3|"Em"g3/2f/2e|"D"f2d|"C"e3/2d/2c|"G"d2B|"C"c2e|\
+"G"d2B|"Am"B2E|
+"D"B/2d/2-d2|"Em"g3/2f/2e|"D"f2d|"C"e3/2d/2c|"E"d2B|"Am"c2e|"C"e3/2d/2c|"D"BcA\
+|"G"G3:|
+
+
+X: 40
+T:Temperley Hornpipe
+% Nottingham Music Database
+S:Mick Peat
+M:2/2
+K:D
+A3/2d/2|"D"f2A2 a3/2f/2e3/2d/2|"A"e2A2 a3/2e/2d3/2c/2|"Bm"d2B2 b3/2f/2e3/2d/2|\
+"F#"d3/2c/2c3/2^B/2 c3/2F/2^A3/2c/2|
+"D"f2A2 a3/2f/2e3/2d/2|"A"e2A2 a3/2e/2d3/2c/2|\
+"G"B3/2b/2g3/2e/2 "A"e3/2d/2d3/2c/2|"D"d2f2 d2A3/2d/2:|
+"A"e2A2 f2A2|g3/2f/2g3/2e/2 c3/2A/2B3/2c/2|\
+K:F
+"Dm"d2A2 f2d2|a2f2 d'3/2a/2f3/2d/2|
+K:F
+"Gm"b3/2^a/2b3/2g/2 d3/2B/2G3/2D/2|"Dm"a3/2^g/2a3/2f/2 d3/2A/2F3/2D/2|\
+K:D
+"A"g3/2f/2g3/2e/2 c3/2A/2B3/2c/2|"D"d2f2 d2||
+A3/2d/2:|
+
+
+X: 41
+T:The Toastmaster
+% Nottingham Music Database
+S:Mick Peat
+P:/f2Can be played fast or sedate/fP
+M:4/4
+L:1/4
+K:G
+"d"d2 "b"B3/2"d"d/2|"g G"g3d|"C"e/2d/2c/2B/2 "D"A/2e/2d/2c/2|\
+"G"B/2A/2G/2F/2 G/2D/2G/2B/2|"d"d2 "b"B3/2"d"d/2|"g G"g3d|1
+"C"e/2d/2c/2B/2 "D"A/2e/2d/2c/2|"G"BG G/2A/2B/2c/2:|2\
+"D"e/2d/2c/2B/2 A/2e/2d/2f/2|"G"gG G2:|
+K:A
+"A"A2 "E"e3/2d/2|"A"c3"A"e|"D"f/2e/2d/2c/2 "E"B/2f/2e/2d/2|\
+"A"c/2B/2A/2G/2 A/2E/2e/2c/2|
+"D"d2 "A"a3/2g/2|"D"fd "D"fa|"G"b/2a/2g/2f/2 "A"g/2a/2b/2c'/2|"D"d'd\ 
+P:DC al fine
+"D7"d2:|
+
+
+X: 42
+T:The Trouper
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:G
+B,C ^C|"G"DB B^A/2B/2|BG D^D|"A"EB B^A/2B/2|B2 E=F|"D"FB BA/2B/2|
+BA2^A|"G"BG "Am"E_E|"D"DB, C^C|"G"DB B^A/2B/2|BG D^D|"A"EB B^A/2B/2|
+BG E=F|"D"FB BA/2B/2|dA2B|"G"G4|Gd B_B|"Am"AA _AG|"D"Fe dc|
+"G"Bf fe/2f/2|fd B_B|"Am"A3/2A/2 _AG|"D"Fe dc|"G"B4|"E"Bd B_B|"Am"AA _AG|
+"D"Fe dc|"G"Bf fe/2f/2|"E"f2 d2|"Am"Ge cA|"D"A/2^A/2B/2dB/2A|"G  C"G4|"G"Gzzz\
+:|
+
+%Yaps leaves out all the guitar chords here.??
+X: 43
+T:Verdi's Waltz
+% Nottingham Music Database
+S:Mick Peat
+M:3/4
+L:1/4
+P:AABA
+K:C
+P:A
+"C"[C2E2][DF]|[E3G3]|"F"[F2A2][GB]|[A3c3]|"G"[B2d2][ce]|[d3f3]|"C"[c2e2][df]|\
+[e3g3]|
+"C"[e2g2][fa]|"c d"[e2g2]"e"[df]|"F"[c2e2][Bd]|[A2c2][GB]|"G"[F2A2][EG]|\
+[D2F2][CE]|"C"[C3E3]|[C3E2]:|
+P:B
+"E"[^G2e2][Af]|[^G2e2][Fd]|[E2c2][Fd]|[E2c2][DB]|
+[C2A2][DB]|[E2c2][DB]|"Am"[C3A3]|[C3G3A3]|"Dm"[F2d2][Ge]|[F2d2][Ec]|
+[D2B2][Ec]|[D2B2][CA]|[B,2G2][CA]|[B,2G2][A,F]|[G,2E2][G,D]|"G" [G,3D3]||
+
+
+X: 44
+T:Via Gellia
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+L:1/8
+P: ABCB
+K:G
+P:A
+D\
+P:B
+|:"G"Gz2"D"Az2|"G"B3 -B2d|"G"BAG "D"A2d|"G"BAG "D"A2D|"G"Gz2"D"Az2|\
+"G"B3 -"Em"B2d|"Am"BAG "D"A2F|"G"G3 z2D :|
+P:C
+"D"Fz2"A"Gz2|"D"A3 -A2d|"A"c2e "E"B2d|"A"cde A2e|"D"Fz2"A"Gz2|\
+"D"A3 -A2d|"Em"Beg "A"a2A|"D"d3 D2D|
+
+
+X: 45
+T:Vole Crossing
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:D
+e|:"D"fdd cdd|"G"Bdd "A"Ace|"D"fdd cdd|"Em"Bee "A"ede|
+"D"fdd cdd|"G"Bdd "D"Add|"Em"Bdd "A"cde|"D"fdd d2e:|
+"D"fef "A"gfg|"D"aga "G"b3|"C"ede "G"=fef|"C"gfg "F"a3|
+"D"fef "A"gfg|"D"aga "G"bag|"E"fed "A"cde|"D"fdd d3:|
+
+
+X: 46
+T:Washtap Reel
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+P:ABCB
+K:G
+P:A
+DE \
+P:B
+|:"G"G2 AG|ED EG|B3/2d/2 gB|"D"BA Bd|
+"C"e3/2f/2 ge|"G"dB "D"cA|[1"G"G3/2A/2 BG|"D7"=F2DE:|[2"G"G3/2B/2 "D"dD|\
+"G"G3z|
+P:C
+|:"Bm"d^c "C#"Bd|"F#"^cg fe|"Bm"d3/2^c/2 "E"Bd|"A"^cA A2|\
+"Am"c3/2B/2 "D"Ad|"G"Bd "Em"eg|"A"ag fe|"D" d2 DE:|
+
